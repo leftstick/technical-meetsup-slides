@@ -1,2 +1,1 @@
-# technical-meetsup-slides
-A collection of meetup slides
+# 这里是“知识就是力量”的slides收集贴
